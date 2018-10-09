@@ -1,6 +1,6 @@
 # Insight UI
 
-A NEETCOIN blockchain explorer web application service for [Bitcore Node](https://github.com/bitpay/bitcore-node) using the [Insight API](https://github.com/bitpay/insight-api).
+A IDOLCOIN blockchain explorer web application service for [Bitcore for IDOLCOIN](https://github.com/yutotetuota/bitcore-idolcoin) using the [Insight API](https://github.com/yutotetuota/insight-api-idolcoin).
 
 ## Quick Start
 
@@ -88,11 +88,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/bitpay/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/bitpay/insight-api).
+For more details about the [Insight API](https://github.com/yutotetuota/insight-api-idolcoin) configuration and end-points, go to [Insight API GitHub repository](https://github.com/yutotetuota/insight-api-idolcoin).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/bitpay/insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/yutotetuota/insight-idolcoin).
 
 
 ## License
