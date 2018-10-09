@@ -1,18 +1,18 @@
 {
   "name": "insight-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the neetcoin network and build your own services with it.",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the idolcoin network and build your own services with it.",
   "version": "5.0.0-beta.44",
-  "repository": "git://github.com/bitpay/insight-ui.git",
+  "repository": "git://github.com/yutotetuota/insight-idolcoin.git",
   "bugs": {
-    "url": "https://github.com/bitpay/insight-ui/issues"
+    "url": "https://github.com/yutotetuota/insight-idolcoin/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-ui",
+  "homepage": "https://github.com/yutotetuota/insight-idolcoin",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "neetcoin",
+    "idolcoin",
     "bitcore",
     "front-end"
   ],
